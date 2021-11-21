@@ -1,1 +1,5 @@
-// Add Single Photo Components
+import React from 'react';
+
+function SinglePhoto() {}
+
+export default SinglePhoto;
