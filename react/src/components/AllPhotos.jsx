@@ -1,0 +1,1 @@
+// Add AllPhotos component
