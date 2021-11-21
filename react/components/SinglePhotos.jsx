@@ -1,1 +1,0 @@
-// Add Single Photo Components
