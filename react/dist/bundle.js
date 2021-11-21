@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("(() => {\n  console.log('webpack worked');\n})();\n\n//# sourceURL=webpack://react/./src/index.js?");
+eval("(function () {\n  console.log('webpack worked');\n})();\n\n//# sourceURL=webpack://react/./src/index.js?");
 
 /***/ })
 
