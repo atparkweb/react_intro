@@ -2,7 +2,7 @@
 
 ## Components
 - [ ] App
-- [ ] Navbar
-- [ ] Upload
-- [ ] All Photos
-- [ ] Single Photo
+  - [ ] Navbar
+    - [ ] Upload
+  - [ ] All Photos
+  - [ ] Single Photo
