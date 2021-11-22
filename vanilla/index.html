@@ -4,13 +4,18 @@
     <meta charset="utf-8" />
     <title>Vanilla JS/HTML App</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <!-- <link rel="stylesheet" href="./style.css" /> -->
+    <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
-    <!-- APP (container) -->
-      <!-- NAVBAR (page navigation) -->
-        <!-- UPLOAD (image file uploader) -->
-      <!-- ALL PHOTOS || SINGLE PHOTO (view images) -->
+    <div class="container">
+      <form class="input">
+        <label>
+          Name:
+          <input id="name-input" type="text" />
+        </label>
+      </form>
+      <div class="output">Hello <span id="name-output">???</span></div>
+    </div>
   </body>
   <script>
     // DOM Manipulation goes here

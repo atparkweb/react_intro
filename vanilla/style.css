@@ -3,6 +3,15 @@ body {
   font-size: 18px;
   color: #333;
 }
+.container {
+  padding: 2rem;
+}
+.output {
+  margin-top: 2rem;
+}
+input {
+  padding: 0.5rem;
+}
 
 .app-header {
   display: flex;
